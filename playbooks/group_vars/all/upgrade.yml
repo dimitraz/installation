@@ -3,3 +3,4 @@ upgrade_product_roles:
 - ups
 - rhsso
 - 3scale
+- enmasse
